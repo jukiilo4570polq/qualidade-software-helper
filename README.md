@@ -1,5 +1,5 @@
 
-# Qualidade Software Helper
+# Qualidade Software divo
 
 ## Objetivo
 Este projeto tem como objetivo fornecer uma ferramenta básica para calcular métricas de qualidade de software e exibir boas práticas no desenvolvimento de projetos.
